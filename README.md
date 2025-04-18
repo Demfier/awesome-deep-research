@@ -116,6 +116,7 @@ A Deep Research agent takes a prompt and conducts thorough investigation across 
 - **[MetaGPT](https://github.com/geekan/MetaGPT)** - Multi-agent framework for collaborative AI research.
 
 - **[LitLLM](https://litllm.github.io/)** - A toolkit for leveraging large language models to assist in scientific literature reviews, helping researchers identify, synthesize, and contextualize relevant prior work more efficiently.
+- **[EmergentMind](https://www.emergentmind.com/)** - A tool to find the most relevant computer science papers based on a query on arXiv and synthesize an answer with citations.
 
 ## 🤖 Agent Technologies for Research
 
